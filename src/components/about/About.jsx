@@ -45,7 +45,7 @@ const About = () => {
             las cabalgatas en la Comuna 2.
           </p>
           <a href="#contact" className="btn btn-primary">
-            Conáctame
+            Contáctame
           </a>
         </div>
       </div>
