@@ -8,10 +8,10 @@ const Header = () => {
   return (
     <header>
       <div className="container header__container">
-        <h5>Hola, soy</h5>
+        <h5>Abogado</h5>
         <h1>Gustavo Alfaro</h1>
         <h5 className="text-light">
-          Abogado Especialista en Derecho Administrativo
+          Especialista en Derecho Administrativo
         </h5>
         <CTA />
         <HeaderSocials />

@@ -17,27 +17,27 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVTR1,
-    name: "Tina Snow",
+    name: "Fernanda Valencia",
     review:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse, corrupti molestiae. Architecto nemo quis ullam nostrum a nulla voluptatum ratione?",
+      "Ha sido un gran apoyo legal, gracias al servicio de asesoría jurídica que me ha prestado. Desde hace varios años, ha demostrado transparencia, seriedad y cumplimiento en su trabajo.",
   },
   {
     avatar: AVTR2,
-    name: "Shatta Wale",
+    name: "Julian Guerra",
     review:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse, corrupti molestiae. Architecto nemo quis ullam nostrum a nulla voluptatum ratione?",
+      "Recibimos un excelente servicio en el tiempo que trabajó con nosotros, contamos con el apoyo para la vigilancia presencial de cada uno de los procesos administrativos y legislativos.",
   },
   {
     avatar: AVTR3,
-    name: "Kwame Despite",
+    name: "Camilo Puerta",
     review:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse, corrupti molestiae. Architecto nemo quis ullam nostrum a nulla voluptatum ratione?",
+      "Ha sido un gran apoyo legal, gracias al servicio de asesoría jurídica que me ha prestado. Desde hace varios años, demostradon transparencia, seriedad y cumplimiento en su trabajo.",
   },
   {
     avatar: AVTR4,
-    name: "Nana Ama McBrown",
+    name: "Diana Aguilera",
     review:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Esse, corrupti molestiae. Architecto nemo quis ullam nostrum a nulla voluptatum ratione?",
+      "No tengo palabras para expresar mi agradecimiento, por el registro de marca. De parte de mi familia les agradecemos enormemente su ayuda. Dios lo bendiga siempre, mil gracias.",
   },
 ];
 

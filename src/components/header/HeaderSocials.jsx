@@ -6,9 +6,9 @@ import {SiTiktok} from 'react-icons/si'
 const HeaderSocials = () => {
   return (
     <div className="header__socials">
-      <a href="https://facebook.com" target="_blank" rel="noreferrer"><BsFacebook/></a>
-      <a href="https://instagram.com" target="_blank" rel="noreferrer"><BsInstagram/></a>
-      <a href="https://tiktok.com" target="_blank" rel="noreferrer"><SiTiktok/></a>
+      <a href="https://www.facebook.com/gustavoadolfo.alfarotascon/" target="_blank" rel="noreferrer"><BsFacebook/></a>
+      <a href="https://www.instagram.com/_galfaro_/" target="_blank" rel="noreferrer"><BsInstagram/></a>
+      <a href="https://tiktok.com/@_gustavo_alfaro" target="_blank" rel="noreferrer"><SiTiktok/></a>
     </div>
   );
 };

@@ -21,7 +21,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experiencia</h5>
-              <small>3+ Años Ejerciendo</small>
+              <small>Ejerciendo desde 2017</small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
@@ -35,12 +35,13 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti
-            fugit impedit autem sed provident et consequatur aut facere ducimus
-            accusamus molestiae quos ea magni at, sequi, iure nam corporis.
-            Voluptas.
+            He tenido la oportunidad de desarrollar mi carrera tanto en el
+            sector público como privado, con la frente en alto puedo decir que
+            mi ejercicio lo he desempeñado con total transparencia.
           </p>
-          <a href="#contact" className="btn btn-primary">Charlemos</a>
+          <a href="#contact" className="btn btn-primary">
+            Asesorías
+          </a>
         </div>
       </div>
     </section>
