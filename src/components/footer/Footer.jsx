@@ -7,46 +7,64 @@ import { IoLogoTwitter } from "react-icons/io";
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className="footer__logo">
+      <a href="#header" className="footer__logo">
         ALFARO
       </a>
       <ul className="permalinks">
         <li>
-          <a href="#">Home</a>
+          <a href="#header">Inicio</a>
         </li>
         <li>
-          <a href="#about">About</a>
+          <a href="#about">Trayectoria</a>
         </li>
         <li>
-          <a href="#experience">Experience</a>
+          <a href="#experience">Experiencia</a>
         </li>
         <li>
-          <a href="#services">Services</a>
+          <a href="#services">Administrativo</a>
         </li>
         <li>
-          <a href="#portfolio">Portfolio</a>
+          <a href="#portfolio">Noticias</a>
         </li>
         <li>
-          <a href="#testimonials">Testimonials</a>
+          <a href="#testimonials">Testimonios</a>
         </li>
         <li>
-          <a href="#contact">Contact</a>
+          <a href="#contact">Contacto</a>
         </li>
       </ul>
       <div className="footer__socials">
-        <a href="https:">
+        <a
+          href="https://www.facebook.com/gustavoadolfo.alfarotascon/"
+          target="_blank"
+          rel="noreferrer"
+        >
           <FaFacebookF />
         </a>
-        <a href="https:">
+        <a
+          href="https://www.instagram.com/_galfaro_/"
+          target="_blank"
+          rel="noreferrer"
+        >
           <FiInstagram />
         </a>
-        <a href="https:">
+        <a href="https://twitter.com/AlfaroTascon">
           <IoLogoTwitter />
         </a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; ANT SoftDesign. All rigths reserved.</small>
-      </div>{" "}
+        <small>
+          {" "}
+          <a
+            href="https://antsoftdesign.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {" "}
+            &copy; ANT SoftDesign. All rigths reserved.
+          </a>
+        </small>
+      </div>
     </footer>
   );
 };

@@ -21,7 +21,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experiencia</h5>
-              <small>Ejerciendo desde 2017</small>
+              <small>Desde 2017</small>
             </article>
             <article className="about__card">
               <FiUsers className="about__icon" />
@@ -37,10 +37,15 @@ const About = () => {
           <p>
             He tenido la oportunidad de desarrollar mi carrera tanto en el
             sector público como privado, con la frente en alto puedo decir que
-            mi ejercicio lo he desempeñado con total transparencia.
+            mi ejercicio lo he desempeñado con total transparencia. Como edil de
+            la Comuna 2 del municipio de Palmira en los periodos 2016/2019 y
+            2020/2023 gestioné la dignidad en el acceso en los servicios
+            públicos, evité la unificación forzada e injustificada de los
+            barrios de mi sector y gestioné la prohibición de la celebración de
+            las cabalgatas en la Comuna 2.
           </p>
           <a href="#contact" className="btn btn-primary">
-            Asesorías
+            Conáctame
           </a>
         </div>
       </div>
