@@ -8,6 +8,47 @@ const Services = () => {
       <h5>Especialización</h5>
       <h2>Derecho Administrativo</h2>
       <div className="container services__container">
+
+      <article className="service">
+          <div className="service__head">
+            <h3>Asesorías más demandadas</h3>
+          </div>
+          <ul className="service__list">
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Asesoría creación de empresa parte jurídica Cámara de Comercio.</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Régimen laboral Empleador y Trabajador.</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Relaciones contractuales entidades estatales y contratistas.</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Representación judicial conciliación prejudicial materia administrativa.</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Procesos laborales única y primera instancia.</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Nulidad traslado fondo de pensión.</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Proceso declaración pertenencia.</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Saneamiento de la falsa tradición.</p>
+            </li>
+          </ul>
+        </article>
+
         <article className="service">
           <div className="service__head">
             <h3>Demandas contra el Estado</h3>

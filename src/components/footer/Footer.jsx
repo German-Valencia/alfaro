@@ -54,13 +54,11 @@ const Footer = () => {
       </div>
       <div className="footer__copyright">
         <small>
-          {" "}
           <a
             href="https://antsoftdesign.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            {" "}
             &copy; ANT SoftDesign. All rigths reserved.
           </a>
         </small>
